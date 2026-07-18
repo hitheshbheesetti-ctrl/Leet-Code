@@ -12,17 +12,16 @@ public:
 
         int ans=1;
 
-        for(int i=mini;i>=1;i--){
-            if(mini%i==0 && maxi%i==0){
-                ans=i;
-                break;
-            }
+        while(mini!=0){
+            int temp=mini;
+            mini=maxi%mini;
+            maxi=temp;
         }
 
 
 
 
-        return ans;
+        return maxi;
         
     }
 };
