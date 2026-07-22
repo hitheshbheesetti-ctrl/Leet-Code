@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
