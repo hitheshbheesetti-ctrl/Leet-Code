@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
