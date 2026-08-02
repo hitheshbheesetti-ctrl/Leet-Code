@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
