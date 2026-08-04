@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Game Theory
 |  |
