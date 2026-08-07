@@ -6,7 +6,7 @@ public:
         vector<int>ans;
 
         for(int i=0;i<words.size();i++){
-            if(words[i].find(x)  !=string::npos){
+            if(count(words[i].begin(),words[i].end(),x)){
                 ans.push_back(i);
             }
         }
