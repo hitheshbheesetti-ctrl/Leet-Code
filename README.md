@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0008-string-to-integer-atoi) |
+| [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3110-score-of-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3668-restore-finishing-order) |
