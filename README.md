@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
