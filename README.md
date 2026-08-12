@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3668-restore-finishing-order) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
