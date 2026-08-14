@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [3701-compute-alternating-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
