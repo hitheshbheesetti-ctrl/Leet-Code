@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
