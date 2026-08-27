@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 ## Depth-First Search
 |  |
