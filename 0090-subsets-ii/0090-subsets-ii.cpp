@@ -2,20 +2,30 @@ class Solution {
 public:
 
     void check(int ind,vector<int>&nums, vector<int>&ds,vector<vector<int>>&ans){
-        
-        ans.push_back(ds);
-            
-        
-
-        for(int i=ind;i<nums.size();i++){
-            if(i!=ind && nums[i]==nums[i-1]) continue;
-
-            ds.push_back(nums[i]);
-            check(i+1,nums,ds,ans);
-            ds.pop_back();
-            
+        if(ind==nums.size()){
+            ans.push_back(ds);
+            return;
 
         }
+        
+            
+        
+
+        
+        ds.push_back(nums[ind]);
+        check(ind+1,nums,ds,ans);
+        ds.pop_back();
+        
+
+
+
+        int i=ind+1;
+        while(i<nums.size() && nums[i]==nums[i-1]){
+            i++;
+        }
+        check(i,nums,ds,ans);
+
+        
 
         
         
