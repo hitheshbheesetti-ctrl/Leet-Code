@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3701-compute-alternating-sum) |
