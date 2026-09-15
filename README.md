@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
+| [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
