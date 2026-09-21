@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
