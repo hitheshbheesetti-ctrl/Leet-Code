@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
@@ -251,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
