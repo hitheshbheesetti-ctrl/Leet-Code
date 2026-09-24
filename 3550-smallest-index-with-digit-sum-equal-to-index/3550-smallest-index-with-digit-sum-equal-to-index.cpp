@@ -8,17 +8,14 @@ public:
             int num=nums[i];
             int sum=0;
 
-            if(num<10){
-                sum=num;
+            
+        
+            while(num>0){
+                sum+=num%10;
+                num=num/10;
             }
 
-            else{
-                while(num>0){
-                    sum+=num%10;
-                    num=num/10;
-                }
-
-            }
+            
 
             if(sum==i){
                 ans=min(i,ans);
