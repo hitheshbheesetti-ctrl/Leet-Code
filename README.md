@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 ## Depth-First Search
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
