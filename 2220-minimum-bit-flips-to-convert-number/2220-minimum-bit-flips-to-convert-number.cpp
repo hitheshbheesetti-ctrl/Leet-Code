@@ -15,8 +15,11 @@ public:
         
         for(int i=0;i<32;i++){
             
-            ans+=(numb&1);
-            numb=numb>>1;
+            
+
+            if((numb&(1<<i))!=0){
+                ans++;
+            }
         }
         
 
