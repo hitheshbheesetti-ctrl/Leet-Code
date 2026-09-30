@@ -9,10 +9,16 @@ public:
         for(int i=0;i<seq.length();i++){
             if(seq[i]=='('){
                 depth++;
-                arr[i]=depth%2;
+                if(depth%2==0){
+                    arr[i]=1;
+                }
+                
             }
             else{
-                arr[i]=depth%2;
+                if(depth%2==0){
+                    arr[i]=1;
+                }
+                
                 depth--;
             }
         }
