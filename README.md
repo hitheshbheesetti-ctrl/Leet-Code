@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0836-rectangle-overlap) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0137-single-number-ii) |
