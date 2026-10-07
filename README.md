@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
