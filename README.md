@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2235-add-two-integers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
@@ -305,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
