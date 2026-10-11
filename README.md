@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
