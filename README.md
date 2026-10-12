@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0836-rectangle-overlap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -319,4 +323,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
