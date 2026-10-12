@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bracket Sequences
