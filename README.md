@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
