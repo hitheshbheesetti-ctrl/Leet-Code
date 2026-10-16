@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
