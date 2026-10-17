@@ -58,8 +58,11 @@ public:
 
 
         int ans=0;
+        if(n>2){
+            ans++;
+        }
 
-        for(int i=2;i<n;i++){
+        for(int i=3;i<n;i+=2){
             if(check(i)){
                 ans++;
             }
