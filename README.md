@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
