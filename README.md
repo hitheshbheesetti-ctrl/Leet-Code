@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -391,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0069-sqrtx) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
