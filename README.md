@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
