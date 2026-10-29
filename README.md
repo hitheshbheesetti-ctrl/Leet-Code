@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
