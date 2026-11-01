@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1108-defanging-an-ip-address) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0877-stone-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
