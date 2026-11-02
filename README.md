@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
