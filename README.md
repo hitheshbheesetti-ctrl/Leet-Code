@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0137-single-number-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0410-split-array-largest-sum) |
