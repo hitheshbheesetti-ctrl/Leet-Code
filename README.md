@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 ## Combinatorics
 |  |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
