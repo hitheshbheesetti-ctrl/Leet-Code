@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0260-single-number-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0771-jewels-and-stones) |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
