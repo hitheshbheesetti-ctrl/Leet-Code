@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/3794-reverse-string-prefix) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/0229-majority-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hitheshbheesetti-ctrl/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
